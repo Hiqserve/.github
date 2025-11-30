@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://hiqserve.vercel.app/images/hiq-logo.webp" alt="HiqServe Logo" width="120">
+  <img src="https://hiqserve.vercel.app/images/hiq-logo.webp" alt="HiqServe Logo" width="200">
 
   # HiqServe Inc.
 
